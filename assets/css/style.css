@@ -1,0 +1,124 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:black;
+    color:white;
+    font-family: 'Raleway',Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+nav{
+    background-color:black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    text-align:center;
+}
+h2{
+    justify-content: center;
+    text-align: center;
+    font-size:2rem
+}
+.igcontainer{
+    padding:10px;
+    width:100%
+}
+.ig0{
+    padding:10px;
+    width:100%
+}
+p{
+    display:inline-block;
+    text-align:start;
+    width:100%;
+    justify-content:center;
+}
+ .parrafos{
+
+    display:inline-block;
+    width:50%;
+    justify-content:center;
+    padding: auto;
+    justify-content: top;
+      
+ }
+ .img0{
+    display:inline-block;
+    width:100%; 
+    justify-content: right; 
+    padding-left: 10%;
+ }
+
+.ig1{
+    display:inline-block;
+    width:100%;
+    max-width: 400px;
+    justify-content: right;
+    
+}
+.img-parrafos{
+    padding:1em;
+}
+.icono{
+    display:inline-block;
+    text-align:center;
+    width:30%;
+    padding:5px
+}
+i{
+    padding:20px;
+}
+.iconos{
+    padding:5px;
+    background-color:#1E1A13;
+    font-size: 1.5625em;
+    font-weight: 300
+    
+}
+.ticono{
+    text-align:center;
+}
+.galpic{
+    display:inline-block;
+    width:30%;
+    padding:2%;   
+}
+.galpic3{
+    display:inline-block;
+    width:30%;
+    padding:0%;
+}
+.galeria{
+    padding:5px;
+}
+h4{
+    text-align:center;
+    padding:20px;
+}
+.ing{
+    display:inline-block;
+    padding:5px;
+    width:100%;
+}
+.ing1{
+    display:inline-block;
+    padding:5px 0px;
+     width:87%;
+}
+    
+.ing2{
+    display:inline-block;
+    padding:5px;
+    width:85%;
+}
+.img0{
+    padding:5px;
+    width:45%
+}
+footer{
+    background-color:#1E1A13;
+}
